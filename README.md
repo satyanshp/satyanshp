@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **satyanshprajapati58@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3aBd3GJ](https://drive.google.com/file/d/1ZEgpsxalvacKw0Qa6MVr4G-jr0yLMhCG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KYi6WODZk3UpH65zdQJxWOSESdFEkMZZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
