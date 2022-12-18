@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyansh-prajapati" target="blank"><img align="center" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" alt="satyansh-prajapati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyansh-prajapati" target="blank"><img align="center" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" alt="satyansh-prajapati" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
