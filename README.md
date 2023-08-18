@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyansh Prajapati</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Ecommerce website clone](https://ecommerse-flipkart.herokuapp.com/)
+- 🔭 I’m currently working on [Ecommerce website clone]([https://ecommerse-flipkart.herokuapp.com/](https://ecommerce-mu-drab-91.vercel.app/))
 
-- 💬 Ask me about **react node js**
+- 💬 Ask me about **ReactJs NodeJs**
 
 - 📫 How to reach me **satyanshprajapati58@gmail.com**
 
